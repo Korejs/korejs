@@ -1,6 +1,6 @@
 ![Kore.js Logo](https://github.com/Korejs/korejs/raw/master/misc/images/Kore.js-Logo.png)
 
-## A modern full stack JS REST and realtime API layer, inspired by Feathers [korejs.org](korejs.org)
+## A modern full stack JS REST and realtime API layer, inspired by Feathers
 
 Kore.js is a real-time, micro-service web framework for NodeJS that gives you control over your data via RESTful resources, sockets, GraphQL etc.
 
