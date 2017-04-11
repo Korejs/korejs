@@ -1,0 +1,33 @@
+{
+  "name": "kore.js",
+  "version": "0.0.1",
+  "author": "Kore.js <contact@korejs.org> (https://korejs.org)",
+  "contributors": [
+    "Sergii Garkusha <garkusha.sergiy@gmail.com> (https://cu7io.us)"
+  ],
+  "description": "A modern full stack JS REST and realtime API layer, inspired by Feathers",
+  "homepage": "https://korejs.org",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Korejs/korejs.git"
+  },
+  "keywords": [
+    "kore",
+    "koa.js",
+    "REST",
+    "socket.io",
+    "primus",
+    "realtime"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Korejs/korejs/issues"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 7.8.0"
+  }
+}
