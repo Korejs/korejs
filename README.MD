@@ -5,7 +5,7 @@
 Kore.js is a real-time, micro-service web framework for NodeJS that gives you control over your data via RESTful resources, sockets, GraphQL etc.
 
 ## Why?
-Since Node v.7 is here we have the cutting edge features of ES7, like async-await. However [Feathers.js](https://feathersjs.com/) doesn't support them.
+Since Node v.7 is here we have the cutting edge features of ES7, like async-await. However [Feathers.js](https://korejs.com/) doesn't support them.
 So Koa.js is here to help.
 
 ## See what makes Kore.js different
@@ -92,13 +92,13 @@ moved to the `public/` folder.
 Feathers has a powerful command line interface. Here are a few things it can do:
 
 ```
-$ npm install -g feathers-cli             # Install Feathers CLI
+$ npm install -g korejs-cli             # Install Feathers CLI
 
-$ feathers                                # Access feathers console
-$ feathers generate service               # Generate a new Service
-$ feathers generate hook                  # Generate a new Hook
-$ feathers generate model                 # Generate a new Model
-$ feathers help                           # Show all commands
+$ korejs                                # Access korejs console
+$ korejs generate service               # Generate a new Service
+$ korejs generate hook                  # Generate a new Hook
+$ korejs generate model                 # Generate a new Model
+$ korejs help                           # Show all commands
 ```
 
 ## Styleguides
