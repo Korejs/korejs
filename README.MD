@@ -50,7 +50,7 @@ Kore.js is a “batteries included but easily swappable framework”. We have en
     ```
     You can install [NIM extension](https://chrome.google.com/webstore/detail/nim-node-inspector-manage/gnhhdgbaldcilmgcpfddgdbkhjohddkj "Node Inspector Manager") for better development experience
 
-4. Start your frontend server
+4. Start your client server
 
     ```
     ./dev-server.sh -f
@@ -72,7 +72,6 @@ instead of this:
  import attachToDOMNode from '../../../core/root'
  ````
 
-
 ## Testing
 
 Simply run `npm test` and all your tests in the `test/` directory will be run.
@@ -87,6 +86,8 @@ Run `build.sh` script with `--host <HOST_NAME_WITH_PORT>` parameter.
 
 Build results will be
 moved to the `public/` folder.
+
+
 ## Scaffolding
 
 Feathers has a powerful command line interface. Here are a few things it can do:
@@ -101,7 +102,7 @@ $ korejs generate model                 # Generate a new Model
 $ korejs help                           # Show all commands
 ```
 
-## Styleguides
+## Style guides
 
 We are using [JavaScript Standard Style](https://standardjs.com/) as linter and style guide for better consistency of our code.
 ````
