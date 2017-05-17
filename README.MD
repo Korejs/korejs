@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://github.com/Korejs/korejs/raw/master/misc/images/Kore.js-Logo.png" alt="Kore.js Logo"/>
+  <img src="https://github.com/Korejs/korejs/raw/master/misc/images/Kore.js-Logo.png" alt="Kore.js Logo" />
 </div>
 
-[![hipsters-badge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](https://github.com/Korejs)
-[![cats-badge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://github.com/Korejs)
-[![cats-badge](http://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/Korejs)
+<div align="center">
+  <img alt="hipsters-badge" src="http://forthebadge.com/images/badges/built-by-hipsters.svg" />
+  <img alt="cats-badge" src="http://forthebadge.com/images/badges/contains-cat-gifs.svg" />
+  <img alt="devs-badge" src="http://forthebadge.com/images/badges/built-by-developers.svg" />
+</div>
 
 <div align="center">
   <a href="https://github.com/feross/standard">
-    <img src="https://cdn.rawgit.com/feross/standard/master/badge.svg" alt="JavaScript Style Guide"/>
+    <img src="https://cdn.rawgit.com/feross/standard/master/badge.svg" alt="JavaScript Style Guide" />
   </a>
 </div>
 
