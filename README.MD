@@ -1,10 +1,15 @@
-<div align="center"><img src="https://github.com/Korejs/korejs/raw/master/misc/images/Kore.js-Logo.png" alt="Kore.js Logo"/></div>
+<div align="center">
+  <img src="https://github.com/Korejs/korejs/raw/master/misc/images/Kore.js-Logo.png" alt="Kore.js Logo"/>
+</div>
 
-[![forthebadge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](https://github.com/Korejs)
-[![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://github.com/Korejs)
+[![hipsters-badge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](https://github.com/Korejs)
+[![cats-badge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://github.com/Korejs)
+[![cats-badge](http://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/Korejs)
 
 <div align="center">
-    [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+  <a href="https://github.com/feross/standard">
+    <img src="https://cdn.rawgit.com/feross/standard/master/badge.svg" alt="JavaScript Style Guide"/>
+  </a>
 </div>
 
 ## A modern full stack JS REST and realtime API layer, inspired by Feathers
