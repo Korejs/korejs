@@ -2,6 +2,8 @@
 
 ## A modern full stack JS REST and realtime API layer, inspired by Feathers
 
+[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
 Kore.js is a real-time, micro-service web framework for NodeJS that gives you control over your data via RESTful resources, sockets, GraphQL etc.
 
 ## Why?
