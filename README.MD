@@ -6,6 +6,7 @@
   <img alt="hipsters-badge" src="http://forthebadge.com/images/badges/built-by-hipsters.svg" />
   <img alt="cats-badge" src="http://forthebadge.com/images/badges/contains-cat-gifs.svg" />
   <img alt="devs-badge" src="http://forthebadge.com/images/badges/built-by-developers.svg" />
+  <br/>
 </div>
 
 <div align="center">
