@@ -1,4 +1,4 @@
-[![Kore.js Logo](https://github.com/Korejs/korejs/raw/master/misc/images/Kore.js-Logo.png)
+[![Kore.js Logo](https://github.com/Korejs/korejs/raw/master/misc/images/Kore.js-Logo.png)](https://github.com/Korejs)
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 [![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://github.com/Korejs)
 [![forthebadge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](https://github.com/Korejs)
