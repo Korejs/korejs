@@ -20,8 +20,7 @@
 Kore.js is a real-time, micro-service web framework for NodeJS that gives you control over your data via RESTful resources, sockets, GraphQL etc.
 
 ## Why?
-Since Node v.7 is here we have the cutting edge features of ES7, like async-await. However [Feathers.js](https://korejs.com/) doesn't support them.
-So Koa.js is here to help.
+Since Node 8 is here we have the cutting edge features of ES7, like `async-await` and latest node features, like `util.promisify()`. However [Feathers.js](https://korejs.com/) was built before this awesomeness. So Koa.js is here to help.
 
 ## See what makes Kore.js different
 
